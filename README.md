@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greyseeker
 - 👀 I’m interested in ... every programming language except Java  
-- 🌱 I’m currently learning ... Python, Process at UNE Australia
+- 🌱 I’m currently learning ... Python, Processing at UNE Australia
 - 💞️ I’m looking to collaborate on ... I work alone in my cave at the moment
 - 📫 How to reach me ... I suggest you leave me alone ;)
 
